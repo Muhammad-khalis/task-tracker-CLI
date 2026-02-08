@@ -1,5 +1,4 @@
 # Task Tracker CLI
-# Task Tracker CLI
 
 This is a simple CLI application to track and manage tasks from the command line.
 
@@ -12,4 +11,5 @@ You can:
 
 ## Project URL
 https://github.com/Muhammad-khalis/task-tracker-CLI
+
 
